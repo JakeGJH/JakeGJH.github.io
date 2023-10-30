@@ -21,4 +21,3 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **Charging Infrastructure:** charging solutions for urban areas
 - **Transportation Resilience:** empowering communities through V2G, energy management
 - **Spatial Analysis Based on GIS:** estimating transportation index from land use
-
