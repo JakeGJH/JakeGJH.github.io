@@ -21,3 +21,8 @@ Outside of academia, I used to be a member of Hawksoar (ultimate frisbee team of
 - **Charging Infrastructure:** charging solutions and infrastructure construction in urban areas
 - **Transportation Resilience:** empowering communities through V2G, energy management
 - **Land Use and Transportation:** estimating transportation features from land use based on GIS
+
+## Publications
+
+Loading...
+
