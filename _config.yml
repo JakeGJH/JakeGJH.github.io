@@ -32,10 +32,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatagjhr.png
+avatagjhr: ./assets/img/avatagjhr.png
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+faviconhkust: ./assets/img/faviconhkust.png
+favicon_darkhkust: ./assets/img/favicon-darkhkust.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
