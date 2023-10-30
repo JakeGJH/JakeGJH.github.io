@@ -37,11 +37,11 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 
+<!--
 
+Collaboration
 
-## Collaboration
-
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+ - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. 
 - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
@@ -51,11 +51,11 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 {% include_relative _includes/services.md %}
 
-
-## Useful Resources
+<!--
+Useful Resources
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-<!--
+
 - <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
 
 -->
