@@ -18,6 +18,6 @@ Outside of academia, I used to be a member of Hawksoar (ultimate frisbee team of
 
 
 ## Research Interests
-- **Charging Infrastructure:** charging solutions for urban areas
+- **Charging Infrastructure:** charging solutions and infrastructure construction in urban areas
 - **Transportation Resilience:** empowering communities through V2G, energy management
 - **Spatial Analysis Based on GIS:** estimating transportation index from land use
