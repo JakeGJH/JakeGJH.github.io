@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/" target="_blank"> Intelligent Transportation</a> Ph.D. candidate at <a href="https://www.hkust-gz.edu.cn/" target="_blank"> The Hong Kong University of Science and Technology (Guangzhou)</a>,
+I'm a <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/" target="_blank"> Intelligent Transportation</a> M.Phil. at <a href="https://www.hkust-gz.edu.cn/" target="_blank"> The Hong Kong University of Science and Technology (Guangzhou)</a>,
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the mentorship of Prof.<a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Wei/wwei" target="_blank"> Wei WEI</a>. My research involves developing solutions for transportation decarbonization and energy transition, such as EV charging methods and charging infrastructure locating.
 
@@ -19,8 +19,8 @@ Outside of academia, I used to be a member of Hawksoar (ultimate frisbee team of
 
 ## Research Interests
 - **Charging Infrastructure:** charging solutions and infrastructure construction in urban areas
-- **Transportation Resilience:** empowering communities through V2G, energy management
-- **Land Use and Transportation:** estimating transportation features from land use based on GIS
+- **Application of Spatial Econometrics in Transportation:** spatial heterogeneity and multi-scale time series analysis of charging factors
+- **Transportation Geography:** estimating geographic processes influencing transportation sections
 
 ## Publications
 
